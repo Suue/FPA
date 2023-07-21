@@ -18,10 +18,18 @@ Atten é um aplicativo para gerenciar salas de aula permitindo o professor a faz
 ## Diagrama de Navegação de Telas
 ![](https://github.com/Suue/FPA/blob/main/attentelasnav.drawio.png)
 ## Telas do Aplicativo
+### Tela de Login
 ![Tela de Login](https://github.com/Suue/FPA/blob/main/telalogin.png).
+### Tela Principal
 ![Tela Principal](https://github.com/Suue/FPA/blob/main/trlaprincipal.png).
+### Tela de Frequência
 ![Tela de Frequência](https://github.com/Suue/FPA/blob/main/telafrequencia1.png).
+### Tela de Frequência após escolha do dia e turma desejados
 ![Tela de Frequência após escolha do dia e turma desejados](https://github.com/Suue/FPA/blob/main/trlafrequencia2.png).
+### Tela de Nota
 ![Tela de Notas](https://github.com/Suue/FPA/blob/main/trlanotas1.png).
+### Tela de Notas após escolha da turma, disciplina e unidade desejados
 ![Tela de Notas após escolha da turma, disciplina e unidade desejados](https://github.com/Suue/FPA/blob/main/telasnotas2.png).
+### Tela de Calendário Acadêmico
 ![Tela de Calendário Acadêmico](https://github.com/Suue/FPA/blob/main/trlacalendarioacademico.png).
+
