@@ -13,6 +13,8 @@ Atten é um aplicativo para gerenciar salas de aula permitindo o professor a faz
 **Inserir Notas**: Permite o usuário inserir as notas dos seus alunos de acordo com a disciplina cursada por eles. Para isso, na tela de Notas, o usuário necessita selecionar o ano, a turma, a disciplina e a unidade desejada para inserção das notas. Nesta opcção o usuário pode informar 3 possíveis notas: 1ª avaliação, 2ª avaliação e avaliação de recuperação. A média é calculada automáticamente após a confirmação de inserção das notas desejadas. Após isso, o status do aluno poderá ser atualizado para aprovado ou reprovado.
 
 **Verificar calendário acadêmico**: permite verficiar o calendário acadêmico da instituição de ensino. Para isso, na tela principal é necessário clicar na opção de Calendário Acadêmico para conseguir visualizar o calendário e navegar nele pelos meses do ano em vigor.
+## Play Store
+Link do aplicativo na Play Store para download: 
 ## Logo do Aplicativo
 ![](https://github.com/Suue/FPA/blob/main/atten-logo-final.png)
 ## Diagrama de Navegação de Telas
