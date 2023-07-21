@@ -2,7 +2,7 @@ Fundamentos de Programação Aplicada 2023 - Repositório para a disciplina do M
 # Atten - Gerenciador de Sala de aula
 Atten é um aplicativo para gerenciar salas de aula permitindo o professor a fazer a frequência, inserir notas e acompanhar o calendário acadêmico da instutuição.
 ## Funcionalidades
-**Login**: Permite o acesso ao app a partir de uma conta cadastrada por email e senha. email: teacher@mail.com e senha: 123456.
+**Login**: Permite o acesso ao app a partir de uma conta cadastrada por email e senha. Conta de teste: email: teacher@mail.com e senha: 123456.
 
 **Logout**: Permite desconectar o usuário logado anteriormente do app.
 
