@@ -31,7 +31,7 @@ Link do aplicativo na Play Store para download:
 ### Tela de Nota
 ![Tela de Notas](https://github.com/Suue/FPA/blob/main/trlanotas1.png).
 ### Tela de Notas após escolha da turma, disciplina e unidade desejados
-![Tela de Notas após escolha da turma, disciplina e unidade desejados](https://github.com/Suue/FPA/blob/main/telasnotas2.png).
+![Tela de Notas após escolha da turma, disciplina e unidade desejados](https://github.com/Suue/FPA/blob/main/telanotas2.png).
 ### Tela de Calendário Acadêmico
 ![Tela de Calendário Acadêmico](https://github.com/Suue/FPA/blob/main/trlacalendarioacademico.png).
 
