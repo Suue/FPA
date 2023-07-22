@@ -40,7 +40,7 @@ Link do aplicativo na Play Store para download:
 ### Tela de Login
 ![Tela de Login](https://github.com/Suue/FPA/blob/main/wtlogin.drawio.png).
 ### Tela Principal
-![Tela Principal]().
+![Tela Principal](https://github.com/Suue/FPA/blob/main/wttelaprincipal.drawio.png).
 ### Tela de Frequência
 ![Tela de Frequência]().
 ### Tela de Notas
