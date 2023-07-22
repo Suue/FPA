@@ -3,7 +3,8 @@ Fundamentos de Programação Aplicada 2023 - Repositório para a disciplina do M
 Atten é um aplicativo para gerenciar salas de aula permitindo o professor a fazer a frequência de seus alunos, inserir notas e acompanhar o calendário acadêmico da instutuição.
 
 Link para o vídeo de apresentação: https://drive.google.com/file/d/1ApVToEgFy0XaZjlP7dRBTgnWCBdRlEK8/view?usp=sharing
-Link para o vídeo de demonstração:
+
+Link para o vídeo de demonstração: https://drive.google.com/file/d/1AsoLz7NWoNp4gsihG82KuC6SngFJWelw/view?usp=sharing
 ## Funcionalidades
 **Login**: Permite o acesso ao app a partir de uma conta cadastrada por email e senha. Conta de teste: email: teacher@mail.com e senha: 123456.
 
