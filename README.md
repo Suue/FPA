@@ -46,6 +46,6 @@ Link do aplicativo na Play Store para download:
 ### Tela de Notas
 ![Tela de Notas]().
 ### Tela Calendário Acadêmico
-![Tela de Calendário Acadêmico]().
+![Tela de Calendário Acadêmico](https://github.com/Suue/FPA/blob/main/wtcalendarioacademico.drawio.png).
 
 
