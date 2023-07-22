@@ -25,15 +25,27 @@ Link do aplicativo na Play Store para download:
 ### Tela de Login
 ![Tela de Login](https://github.com/Suue/FPA/blob/main/telalogin.png).
 ### Tela Principal
-![Tela Principal](https://github.com/Suue/FPA/blob/main/trlaprincipal.png).
+![Tela Principal](https://github.com/Suue/FPA/blob/main/telaprincipal.png).
 ### Tela de Frequência
 ![Tela de Frequência](https://github.com/Suue/FPA/blob/main/telafrequencia1.png).
 ### Tela de Frequência após escolha do dia e turma desejados
 ![Tela de Frequência após escolha do dia e turma desejados](https://github.com/Suue/FPA/blob/main/trlafrequencia2.png).
-### Tela de Nota
+### Tela de Notas
 ![Tela de Notas](https://github.com/Suue/FPA/blob/main/trlanotas1.png).
 ### Tela de Notas após escolha da turma, disciplina e unidade desejados
 ![Tela de Notas após escolha da turma, disciplina e unidade desejados](https://github.com/Suue/FPA/blob/main/telanotas2.png).
 ### Tela de Calendário Acadêmico
 ![Tela de Calendário Acadêmico](https://github.com/Suue/FPA/blob/main/trlacalendarioacademico.png).
+## Widgets Trees
+### Tela de Login
+![Tela de Login](https://github.com/Suue/FPA/blob/main/wtlogin.drawio.png).
+### Tela Principal
+![Tela Principal]().
+### Tela de Frequência
+![Tela de Frequência]().
+### Tela de Notas
+![Tela de Notas]().
+### Tela Calendário Acadêmico
+![Tela de Calendário Acadêmico]().
+
 
