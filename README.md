@@ -44,7 +44,7 @@ Link do aplicativo na Play Store para download:
 ### Tela Principal
 ![Tela Principal](https://github.com/Suue/FPA/blob/main/wttelaprincipal.drawio.png).
 ### Tela de Frequência
-![Tela de Frequência](https://github.com/Suue/FPA/blob/main/wtfrequencia.drawio.png).
+![Tela de Frequência](https://github.com/Suue/FPA/blob/main/wtreefrequencia.drawio.png).
 ### Tela de Notas
 ![Tela de Notas](https://github.com/Suue/FPA/blob/main/wtnotas.drawio.png).
 ### Tela Calendário Acadêmico
