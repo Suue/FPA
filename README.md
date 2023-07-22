@@ -1,6 +1,6 @@
 Fundamentos de Programação Aplicada 2023 - Repositório para a disciplina do Mestrado FPA.
 # Atten - Gerenciador de Sala de aula
-Atten é um aplicativo para gerenciar salas de aula permitindo o professor a fazer a frequência, inserir notas e acompanhar o calendário acadêmico da instutuição.
+Atten é um aplicativo para gerenciar salas de aula permitindo o professor a fazer a frequência de seus alunos, inserir notas e acompanhar o calendário acadêmico da instutuição.
 Link para o vídeo de apresentação:
 Link para o vídeo de demonstração:
 ## Funcionalidades
