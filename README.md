@@ -19,7 +19,7 @@ This project is a starting point for a Flutter application.
 
 **Verificar calendário acadêmico**: permite verficiar o calendário acadêmico da instituição de ensino. Para isso, na tela principal é necessário clicar na opção de Calendário Acadêmico para conseguir visualizar o calendário e navegar nele pelos meses do ano em vigor.
 ## Play Store
-Link do aplicativo na Play Store para download: 
+Link do aplicativo na Play Store para teste interno (apenas os testadores adicionados conseguirão baixar para testar: https://play.google.com/apps/internaltest/4701544070797692626 
 ## Logo do Aplicativo
 ![](https://github.com/Suue/FPA/blob/main/atten-logo-final.png)
 ## Diagrama de Navegação de Telas
